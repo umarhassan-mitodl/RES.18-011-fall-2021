@@ -1,0 +1,40 @@
+{
+  "term": "Fall",
+  "year": "2021",
+  "level": [
+    "Non-Credit"
+  ],
+  "topics": [
+    [
+      "Mathematics",
+      "Algebra and Number Theory"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6f479726-6a40-4861-82d1-ba0b4f512e9f",
+    "website": "algebra-i-student-notes"
+  },
+  "course_title": "Algebra I Student Notes",
+  "hide_download": false,
+  "course_description": "Algebra I is the first semester of a year-long introduction to modern algebra. Algebra is a fundamental subject, used in many advanced math courses and with applications in computer science, chemistry, etc. The focus of this class is studying groups, linear algebra, and geometry in different forms.\n\nThese notes, which were created by students in a recent on-campus 18.701 Algebra I class, are offered here to supplement the materials included in OCW\u2019s {{% resource_link \"45f55f0b-77b8-4c87-8adb-57f4360831c7\" \"version of 18.701\" %}}. They have not been checked for accuracy by the instructors of that class or by other MIT faculty members.",
+  "department_numbers": [
+    "18"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.18-011",
+  "course_image_thumbnail": {
+    "content": "93ea6e72-eb7b-47f8-a340-97c70a212611",
+    "website": "algebra-i-student-notes"
+  },
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "site_uid": "195897d0-fc0c-4ee2-83c7-0ecec6ed3344",
+  "site_short_id": "RES.18-011-fall-2021",
+  "site_url_path": "courses/res-18-011-algebra-i-student-notes-fall-2021"
+}
