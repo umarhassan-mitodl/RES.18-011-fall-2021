@@ -5,6 +5,8 @@ draft: false
 file: /courses/res-18-011-algebra-i-student-notes-fall-2021/mit18_701f21_full_lec.pdf
 file_size: 685986
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

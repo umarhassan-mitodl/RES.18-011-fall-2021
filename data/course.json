@@ -20,8 +20,8 @@
     "website": "algebra-i-student-notes"
   },
   "course_title": "Algebra I Student Notes",
-  "hide_download": false,
-  "course_description": "Algebra I is the first semester of a year-long introduction to modern algebra. Algebra is a fundamental subject, used in many advanced math courses and with applications in computer science, chemistry, etc. The focus of this class is studying groups, linear algebra, and geometry in different forms.\n\nThese notes, which were created by students in a recent on-campus 18.701 Algebra I class, are offered here to supplement the materials included in OCW\u2019s {{% resource_link \"45f55f0b-77b8-4c87-8adb-57f4360831c7\" \"version of 18.701\" %}}. They have not been checked for accuracy by the instructors of that class or by other MIT faculty members.",
+  "hide_download": true,
+  "course_description": "Algebra I is the first semester of a year-long introduction to modern algebra. Algebra is a fundamental subject, used in many advanced math courses and with applications in computer science, chemistry, etc. The focus of this class is studying groups, linear algebra, and geometry in different forms.\n\nThese notes, which were created by students in a recent on-campus 18.701 Algebra I class, are offered here to supplement the materials included in OCW\u2019s [version of 18.701](https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/). They have not been checked for accuracy by the instructors of that class or by other MIT faculty members.",
   "department_numbers": [
     "18"
   ],
@@ -31,6 +31,7 @@
     "content": "93ea6e72-eb7b-47f8-a340-97c70a212611",
     "website": "algebra-i-student-notes"
   },
+  "hide_download_original": false,
   "learning_resource_types": [
     "Lecture Notes"
   ],
